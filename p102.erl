@@ -1,4 +1,4 @@
--module(p2).
+-module(p102).
 -export([second_last/1]).
 -include_lib("eunit/include/eunit.hrl").
 
